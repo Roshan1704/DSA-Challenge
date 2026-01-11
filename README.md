@@ -45,10 +45,9 @@ dsa-challenge/
 
 ## 🧠 Challenge Rules (Self-Imposed)
 
-- One problem per day
 - No skipping difficulty levels
 - No copy-paste solutions
-- Each problem solved independently
+- Each problem is solved independently
 - Focus on correctness, time & space complexity
 - Older problems are **never repeated**
 
