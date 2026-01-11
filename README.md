@@ -68,7 +68,6 @@ This ensures:
 
 ## 🧠 Challenge Rules (Self-Imposed)
 
-- One problem per day
 - No skipping difficulty levels
 - No copy-paste solutions
 - Each problem is solved independently
@@ -111,7 +110,7 @@ This ensures:
 
 - Add test cases per problem
 - Add complexity analysis notes
-- Add revision / reattempt cycles
+- Add revision/reattempt cycles
 - Add performance optimizations
 
 ---
@@ -119,7 +118,7 @@ This ensures:
 ## 📬 Note
 
 This repository reflects **continuous learning**.  
-Code quality, approaches, and abstractions will evolve over time.
+Code quality, approaches, and abstractions will evolve.
 
 ---
 
